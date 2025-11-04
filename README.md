@@ -370,7 +370,7 @@ await ErrorManager.notify_info(
 ## 📞 Поддержка
 
 - **Email:** Ia12Kotik@yandex.ru  
-- **GitHub Issues:** [Ссылка на репозиторий]  
+- **GitHub Issues:** https://github.com/Dusha01/tg_error_notifier  
 
 ---
 
